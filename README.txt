@@ -1,0 +1,1 @@
+Compile Brute and Fast, run either. Requires a file of points.
